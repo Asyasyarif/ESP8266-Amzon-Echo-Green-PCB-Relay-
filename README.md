@@ -19,8 +19,9 @@ git clone https://github.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-.git
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/image_layout.jpg)
 
 ## Programming
+### Port and Baudrate
 
-untuk setting port dan baudrate, buka file [platformio.ini](https://github.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/blob/master/platformio.ini). 
+Untuk setting port dan baudrate, buka file [platformio.ini](https://github.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/blob/master/platformio.ini). 
 
 lalu sesuaikan dengan serialport anda.
 
