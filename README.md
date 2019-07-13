@@ -5,7 +5,6 @@ Module ESP8266 dengan Relay dan Digital input Terintegrasi dengan Amazon Echo (A
 ## Getting Started
 
 Dibuat dengan Visual Studio Code dan PlatformIO
-cara install PlatformIO: 
 ```
 https://platformio.org/install
 ```
