@@ -13,7 +13,14 @@ https://platformio.org/install
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/image_layout.jpg)
 
 ## Programming
+Hubungkan USB to Serial TTL ke Header P6
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 Pastikan anda mempunyai Usb to Serial TTL, dan patikan kondisi P3 ter-Jumper.
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/programmer.jpg)
 ### Test Run
+Cabut Jumper P3 dan restart ESP8266.
+Buka Aplikasi Amazon Alexa lalu Add Devices dan search. 
