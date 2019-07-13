@@ -22,7 +22,8 @@ Hubungkan USB to Serial TTL ke Header P6
 | RX  | TX  |
 | TX  | RX  |
 
-Pastikan anda mempunyai Usb to Serial TTL, dan patikan kondisi P3 ter-Jumper.
+dan jangan lupa kondisi Header P3 ter-Jumper.
+
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/programmer.jpg)
 ### Test Run
 Cabut Jumper P3 dan restart ESP8266.
