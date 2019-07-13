@@ -13,14 +13,14 @@ https://platformio.org/install
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/image_layout.jpg)
 
 ## Programming
-Hubungkan USB to Serial TTL ke Header P6\
+Hubungkan USB to Serial TTL ke Header P6
 
 
-| First Header  | Second Header |
+| USB TO Serial TTL  | P6 Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| GND  | GND  |
+| RX  | TX  |
+| TX  | RX  |
 
 Pastikan anda mempunyai Usb to Serial TTL, dan patikan kondisi P3 ter-Jumper.
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/programmer.jpg)
