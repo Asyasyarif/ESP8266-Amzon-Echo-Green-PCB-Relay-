@@ -8,6 +8,12 @@ Dibuat dengan Visual Studio Code dan PlatformIO
 ```
 https://platformio.org/install
 ```
+lalu clone repo ini
+
+```
+git clone https://github.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-.git
+```
+
 ## Hardware
 
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/image_layout.jpg)
