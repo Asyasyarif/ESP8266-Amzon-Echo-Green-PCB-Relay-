@@ -10,6 +10,8 @@ https://platformio.org/install
 ```
 ## Hardware
 
+![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/image_layout.jpg)
+
 ## Programming
 
 Pastikan anda mempunyai Usb to Serial TTL, dan patikan kondisi P3 ter-Jumper.
