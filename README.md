@@ -12,6 +12,7 @@ https://platformio.org/install
 ## Hardware
 
 ## Programming
+
 Pastikan anda mempunyai Usb to Serial TTL, dan patikan kondisi P3 ter-Jumper.
--
+
 ### Test Run
