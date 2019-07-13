@@ -33,6 +33,7 @@ Hubungkan USB to Serial TTL ke Header P6
 | TX  | RX  |
 
 dan jangan lupa kondisi Header P3 ter-Jumper.
+Dan Upload.
 
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/programmer.jpg)
 ### Test Run
