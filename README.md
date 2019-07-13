@@ -19,6 +19,8 @@ git clone https://github.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-.git
 ![alt text](https://raw.githubusercontent.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/master/img/image_layout.jpg)
 
 ## Programming
+
+untuk setting port dan baudrate, buka file [platformio.ini](https://github.com/AsyaSyarif/ESP8266-Amzon-Echo-Green-PCB-Relay-/blob/master/platformio.ini). 
 Hubungkan USB to Serial TTL ke Header P6
 
 
