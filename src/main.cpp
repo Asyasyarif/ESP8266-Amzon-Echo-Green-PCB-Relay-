@@ -1,13 +1,23 @@
+/*
+   ===========================================
+              dibuat oleh Arif
+             github.com/AsyaSyarif
+   ===========================================
+ */
+
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
+
+/*
+WemoSwitch library dari https://github.com/witnessmenow/esp8266-alexa-wemo-emulator
+ */
 #include "WemoSwitch.h"
 #include "WemoManager.h"
 #include "CallbackFunction.h"
 
-//ganti nama perangkat dengan nama yang anda ingingkan
-#define NAMA_PERANGKAT "Table Lamp"
-#define WIFI_SSID       "TerjebakRindu"
-#define WIFI_PASSWORD   "11111111"
+#define NAMA_PERANGKAT "Table Lamp" //ganti nama perangkat dengan nama yang anda ingingkan
+#define WIFI_SSID       "" //isi dengan nama WIFI
+#define WIFI_PASSWORD   "" //isi dengan password WIFI
 #define SERIAL_BAUDRATE 115200
 
 //jika kamu pakai module seperti wemos / nodemcu gunakan D4,D5 
