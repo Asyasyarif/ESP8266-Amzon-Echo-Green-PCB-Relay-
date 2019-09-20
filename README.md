@@ -39,3 +39,6 @@ Dan Upload.
 ### Test Run
 Cabut Jumper P3 dan restart ESP8266.
 Buka Aplikasi Amazon Alexa lalu Add Devices dan search. 
+
+### Enclosure
+https://www.thingiverse.com/thing:3760139
